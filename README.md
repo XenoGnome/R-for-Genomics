@@ -1,3 +1,3 @@
 # blindcorvus
-##  small Joel
+## small Joel
 #### tiny
